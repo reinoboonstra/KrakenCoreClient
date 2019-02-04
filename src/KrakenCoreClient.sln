@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28527.54
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrakenCoreClient", "KrakenCoreClient\KrakenCoreClient.csproj", "{E8D2E01A-01B4-4706-95DD-F0564ED229E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrakenCoreClient.UnitTests", "..\tests\KrakenCoreClient.UnitTests\KrakenCoreClient.UnitTests.csproj", "{CD143F76-7F3F-483F-87F9-FB1237BC330E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D2E01A-01B4-4706-95DD-F0564ED229E0}.Debug|x64.ActiveCfg = Debug|x64
+		{E8D2E01A-01B4-4706-95DD-F0564ED229E0}.Debug|x64.Build.0 = Debug|x64
+		{E8D2E01A-01B4-4706-95DD-F0564ED229E0}.Release|x64.ActiveCfg = Release|x64
+		{E8D2E01A-01B4-4706-95DD-F0564ED229E0}.Release|x64.Build.0 = Release|x64
+		{CD143F76-7F3F-483F-87F9-FB1237BC330E}.Debug|x64.ActiveCfg = Debug|x64
+		{CD143F76-7F3F-483F-87F9-FB1237BC330E}.Debug|x64.Build.0 = Debug|x64
+		{CD143F76-7F3F-483F-87F9-FB1237BC330E}.Release|x64.ActiveCfg = Release|x64
+		{CD143F76-7F3F-483F-87F9-FB1237BC330E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D17DED0-982B-4ABB-85EF-8D816B1DD64E}
+	EndGlobalSection
+EndGlobal
